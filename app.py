@@ -1,1 +1,3 @@
-python code we can add here
+a=123
+b=456
+c=a+b
